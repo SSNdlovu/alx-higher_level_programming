@@ -3,4 +3,4 @@ st1 = "Holberton"
 st2 = "School"
 st1 += " " + st2
 print("Welcome to {}!".format(st1))
-i
+
