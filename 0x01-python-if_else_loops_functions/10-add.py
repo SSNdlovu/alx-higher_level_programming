@@ -3,6 +3,5 @@
 
 
 def add(a, b):
-    """Return the addition of a and b."""
+    """Ret da add of a and b."""
     return (a + b)
-

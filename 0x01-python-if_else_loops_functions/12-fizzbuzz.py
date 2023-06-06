@@ -5,9 +5,9 @@
 def fizzbuzz():
     """Print the num 1 2 100 sep by a space.
 
-    For multiples of three, print Fizz instead of the number.
-    For multiples of five, print Buzz instead of the number.
-    For multiples of three and five, print FizzBuzz instead of the number.
+    For multi of three
+    For multi of fiv
+    For multi of three and five
     """
     for number in range(1, 101):
         if number % 3 == 0 and number % 5 == 0:
@@ -18,4 +18,3 @@ def fizzbuzz():
             print("Buzz ", end="")
         else:
             print("{} ".format(number), end="")
-

@@ -3,6 +3,5 @@
 
 
 def pow(a, b):
-    """Return a to the power of b."""
+    """Ret a 2 da power of b."""
     return (a ** b)
-
